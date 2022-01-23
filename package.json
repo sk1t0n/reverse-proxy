@@ -1,0 +1,20 @@
+{
+  "name": "reverse-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy to solve the CORS problem",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [
+    "cors",
+    "proxy"
+  ],
+  "author": "Anton Grabovsky <agrabovsky2020@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
