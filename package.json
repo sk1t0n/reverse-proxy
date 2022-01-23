@@ -10,6 +10,10 @@
     "cors",
     "proxy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sk1t0n/reverse-proxy.git"
+  },
   "author": "Anton Grabovsky <agrabovsky2020@gmail.com>",
   "license": "MIT",
   "dependencies": {
